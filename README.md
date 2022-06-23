@@ -5,7 +5,7 @@
 
 I post discord py old scripts and sometimes my projects from CS50x course
 
-- if user.subscriber is True:
+- if viewer.subscriber is True:
   - print("Thank you!🎉")
 - else:
   - print("https://www.youtube.com/channel/UC6o8vZttsWTPlu-kxjc62_A")
