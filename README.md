@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Piggeh
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning (who would of guessed...)
-- 📫 How to reach me Discord - Piggeh#6082
+- 📫 How to reach me Discord - Piggeh69
 
 I post discord py old scripts and sometimes my projects from CS50x course
 
